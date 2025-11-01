@@ -1,0 +1,53 @@
+{
+  "status": "completed",
+  "message": "Extraction terminée",
+  "progress": 100,
+  "data": {
+    "fournisseur": {
+      "value": "CANADIAN TIRE",
+      "confidence": 0.98,
+      "found": true
+    },
+    "date_facture": {
+      "value": "2025-06-21",
+      "confidence": 0.95,
+      "found": true
+    },
+    "numero_facture": {
+      "value": "79",
+      "confidence": 0.9,
+      "found": true
+    },
+    "sous_total": {
+      "value": "69.96",
+      "confidence": 0.98,
+      "found": true
+    },
+    "tps": {
+      "value": "3.50",
+      "confidence": 0.98,
+      "found": true
+    },
+    "tvq": {
+      "value": "6.98",
+      "confidence": 0.98,
+      "found": true
+    },
+    "total": {
+      "value": "80.44",
+      "confidence": 0.98,
+      "found": true
+    },
+    "devise": {
+      "value": "CAD",
+      "confidence": 0.9,
+      "found": true
+    },
+    "categorie_comptable": {
+      "value": "5000",
+      "confidence": 0.8,
+      "found": true
+    },
+    "processing_method": "OCR"
+  }
+}

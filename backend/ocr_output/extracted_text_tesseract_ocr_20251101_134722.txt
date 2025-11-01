@@ -1,0 +1,63 @@
+Extraction Method: tesseract_ocr
+Timestamp: 20251101_134711
+Text Length: 1852 characters
+================================================================================
+
+CANADIAN TIRE #14
+                    GESTION GILLES ST-MICHEL
+                    1806 3e AVENUE VAL D OR J9P7A9
+                    TEL: (819) 825-9999 FAX: (819) 825-3003
+                    BONNE JOURNÉE
+                    À VOUS CHERS CLIENTS
+                    CAISSE:3 06/21/2025 13:07:52 # TRANS:79
+                    # OPÉRATEUR: 250 Encaisse: 001
+
+2X009-2176-2           @ $       9.990 ch.
+                           NEC REPARAT PNE $      19.98
+2X009-5006-0           @ $      24.990 ch.
+                           POMPE CERT,12V $      49.98
+(RABAIS $ 36.00 @ 18.00 ea.)
+
+                           SOUSTOTAL        $      69.96
+                           T.P.S. 5%        $       3.50
+                           T.V.Q. 9.975%    $       6.98
+                           TOTAL            $      80.44
+                           VISA REÇU        $      80.44
+VISA ACHAT
+VISA #: **************0016
+CARTE A PUCE
+2025/06/21 13:08:16
+RÉFÉRENCE: 0010010011 H
+AUTORISATION: 017296
+A0000000031010
+Visa Desjardins
+0000000000
+                    01 APPROUVÉE - MERCI 027
+                    OPÉRATION SANS SIGNATURE
+                    IMPORTANT
+Conserver cette copie pour vos dossiers
+
+Vous auriez pu obtenir 2.80$ en
+Argent CT avec une carte Mastercard
+Triangle! Les titulaires de carte
+obtiennent une remise de 4% en
+Argent CT chez Canadian Tire et de
+5 cents par litre en Argent CT
+sur l'essence ordinaire aux postes
+Essence+ participants.
+Calculé sur le montant avant les taxes.
+Sous réserve de certaines modalités.
+Visitez Triangle.com pour les détails.
+
+AUJOURD'HUI VOUS AVEZ ÉPARGNÉ: $ 36.00
+
+                    COPIE DU CLIENT
+
+Visitez canadiantire.ca ou téléchargez
+l'application Canadian Tire pour mobile!
+
+Visitez canadiantire.ca/recyclage pour
+des renseignements sur le recyclage.
+
+Répondez à notre sondage chaque mois et
+courez la chance de gagner
